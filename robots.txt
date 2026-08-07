@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://athanasiafm_lysis.github.io/athanasia/sitemap.xml
+Sitemap: https://athanasiafm-lysis.github.io/athanasia/sitemap.xml
